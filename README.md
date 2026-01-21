@@ -1,0 +1,1 @@
+# lambda-secretsmanager-password-rotation
