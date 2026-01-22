@@ -1,0 +1,39 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Lambda build artifacts
+package/
+build/
+dist/
+*.zip
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+
+# AWS SAM / CDK / Terraform (if used later)
+.aws-sam/
+cdk.out/
+terraform.tfstate
+terraform.tfstate.backup
+.terraform/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.*
