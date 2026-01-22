@@ -1,4 +1,4 @@
-# Serverless Password Rotation System Using AWS Lambda & Secrets Manager
+# Serverless Password Rotation System Using AWS Lambda, Secrets Manager & EventBridge
 
 ## STEP 1 — Create a Secret in Secrets Manager
 
