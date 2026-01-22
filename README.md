@@ -221,7 +221,7 @@ You’ll run it manually once to confirm everything works.
 
 That confirms your rotation logic works end‑to‑end.
 
-<img width="1200" height="649" alt="Screenshot 2026-01-21 at 8 18 27 PM" src="https://github.com/user-attachments/assets/639d71fc-2866-44b1-ba60-fe011783cffd" />
+<img width="946" height="240" alt="Screenshot 2026-01-22 at 12 41 34 AM" src="https://github.com/user-attachments/assets/57287e0f-a9fa-4805-9668-30c57a67e899" />
 
 
 ## STEP 6 — Trigger Rotation Automatically
